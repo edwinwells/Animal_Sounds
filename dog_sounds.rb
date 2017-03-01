@@ -7,7 +7,8 @@ class Dog
 		@sound="woof"
 	end
 
-
-
+	def get_info
+		name + " says " + sound
+	end
 
 end

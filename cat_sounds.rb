@@ -7,6 +7,10 @@ class Cat
 		@sound="meow"
 	end
 
+	def get_info
+		name + " says " + sound
+	end
+
 
 
 

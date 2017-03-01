@@ -7,7 +7,8 @@ class Fox
 		@sound="konkon"
 	end
 
-
-
+	def get_info
+		name + " says " + sound
+	end
 
 end
