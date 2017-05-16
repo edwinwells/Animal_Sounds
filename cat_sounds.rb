@@ -11,7 +11,4 @@ class Cat
 		name + " says " + sound
 	end
 
-
-
-
 end
